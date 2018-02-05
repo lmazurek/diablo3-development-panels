@@ -2,6 +2,13 @@
 
 Gives you a lot of insight on overall game development, UI development, UX development & balancing, game systems development, character design and iteration, some teach how to convey your story and place it into the product that doesn't disrupt the game flow.
 
+Diablo 3 Game Design (Blizzcon 2008)
+
+- https://www.youtube.com/watch?v=e-C1F9fCIKQ
+- https://www.youtube.com/watch?v=WCCYAkBMvZE
+- https://www.youtube.com/watch?v=bgKaZDxozBw
+- https://www.youtube.com/watch?v=2kdThBX5UT8
+
 Diablo III: character classes design panel (design, story, art) in 5 parts (Blizzcon 2008)
 
 - https://www.youtube.com/watch?v=-lilST05y0k
@@ -9,13 +16,6 @@ Diablo III: character classes design panel (design, story, art) in 5 parts (Bliz
 - https://www.youtube.com/watch?v=KTRvaVdWB2Y
 - https://www.youtube.com/watch?v=9e0HpbUzLLA
 - https://www.youtube.com/watch?v=LeialVQZTv4
-
-Diablo 3 Game Design (Blizzcon 2008)
-
-- https://www.youtube.com/watch?v=e-C1F9fCIKQ
-- https://www.youtube.com/watch?v=WCCYAkBMvZE
-- https://www.youtube.com/watch?v=bgKaZDxozBw
-- https://www.youtube.com/watch?v=2kdThBX5UT8
 
 Diablo 3 World Lore And Environment Art (Blizzcon 2008)
 
